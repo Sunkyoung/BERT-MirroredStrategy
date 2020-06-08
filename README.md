@@ -1,5 +1,5 @@
 # Multi-BERT
-// Improving BERT Multilingual Model to Support for English and Korean Language Model
+Improving BERT Multilingual Model to Support for English and Korean Language Model
 
 * Environment : Ubuntu 18.04, Tensorflow 1.14 CUDA 10.0, CUDNN 7.6.5
 * Model : BERT Multilingual Cased Model
