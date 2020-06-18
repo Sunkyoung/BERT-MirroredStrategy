@@ -14,6 +14,7 @@
 # limitations under the License.
 
 # reference :
+# https://www.tensorflow.org/guide/distributed_training
 # https://github.com/HaoyuHu/bert-multi-gpu/blob/master
 
 # """Run BERT on SQuAD 1.1 and SQuAD 2.0."""
