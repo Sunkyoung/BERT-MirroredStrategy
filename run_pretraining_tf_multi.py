@@ -12,6 +12,10 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
+
+# reference :
+# https://www.tensorflow.org/guide/distributed_training
+
 """Run masked LM/next sentence masked_lm pre-training for BERT."""
 
 from __future__ import absolute_import
