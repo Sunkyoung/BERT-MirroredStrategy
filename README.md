@@ -1,5 +1,5 @@
 # BERT with MulitGPUs
-__Improving BERT Model to Support for running with multi GPUs__
+__Improving BERT Model to Support for running with multi GPUs__ <br />
 __You can simply use codes selection what would you use for running !__
 
 - Environment : Ubuntu 18.04, Tensorflow 1.14 CUDA 10.0, CUDNN 7.6.5
