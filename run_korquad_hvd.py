@@ -16,7 +16,8 @@
 # Followed this code
 # https://github.com/google-research/bert/pull/568
 
-"""Run BERT on SQuAD 1.1 and SQuAD 2.0."""
+# """Run BERT on SQuAD 1.1 and SQuAD 2.0."""
+"""Run BERT on KorQuAD 2.x"""
  
 from __future__ import absolute_import
 from __future__ import division
