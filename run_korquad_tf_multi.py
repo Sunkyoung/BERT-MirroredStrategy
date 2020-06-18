@@ -12,9 +12,14 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-"""Run BERT on SQuAD 1.1 and SQuAD 2.0."""
 
-# reference https://github.com/HaoyuHu/bert-multi-gpu/blob/master/custom_optimization.py
+# reference :
+# https://github.com/HaoyuHu/bert-multi-gpu/blob/master
+
+# """Run BERT on SQuAD 1.1 and SQuAD 2.0."""
+
+"""Run BERT on KorQuAD 2.x"""
+
 
 from __future__ import absolute_import
 from __future__ import division
